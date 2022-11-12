@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background: black;
+    width: 385px;
+}
+#box{
+    margin-left: 15px;
+    margin-top: 15px;
+    background: #273549;
+}
+#hero{
+    margin: 0px 15px;
+    padding: 0px 0px 15px 0px;
+    border-bottom: 3px solid #2F3E53;
+}
+
+#generate{
+    padding-top: 15px;
+    color: white;
+}
+
+#random{
+    margin: 0;
+    color: #55F991;
+}
+
+#never{
+    color: #D5D4D8;
+    font-size: 15px;
+}
+
+.btn{
+    border-radius: 6px;
+    background: #10B981;
+    color: white;
+    font-size: 15px;
+    padding: 9px 17px 9px 15px;
+}
+
+#outputs{
+    margin: 5px 15px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: #55F991;
+}
+
+#output1{
+    width: 160px;
+    background: #2F3E53;
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+}
+
+#output2{
+    margin-left: 35px;
+    width: 160px;
+    height: 18px;
+    background: #2F3E53;
+    border-radius: 6px;
+    padding: 9px 17px 9px 15px;
+}
